@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/7-Empregado/Empregado.iml" filepath="$PROJECT_DIR$/7-Empregado/Empregado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SOLID-DRY-e-KISS.iml" filepath="$PROJECT_DIR$/.idea/SOLID-DRY-e-KISS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3-Validador de senha/Validador de senha.iml" filepath="$PROJECT_DIR$/3-Validador de senha/Validador de senha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-Calculadoradesconto/calculadoradesconto.iml" filepath="$PROJECT_DIR$/1-Calculadoradesconto/calculadoradesconto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4-calculadoraquarta/calculadoraquarta.iml" filepath="$PROJECT_DIR$/4-calculadoraquarta/calculadoraquarta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2-calculodefatorial/calculodefatorial.iml" filepath="$PROJECT_DIR$/2-calculodefatorial/calculodefatorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5-fatura/fatura.iml" filepath="$PROJECT_DIR$/5-fatura/fatura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6-veiculos/veiculos.iml" filepath="$PROJECT_DIR$/6-veiculos/veiculos.iml" />
+    </modules>
+  </component>
+</project>
